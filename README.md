@@ -17,7 +17,7 @@ The FinTech Toolkit is designed to streamline and enhance financial technology s
 
 - **Programming Languages**: Python, JavaScript
 - **Libraries and Frameworks**: Flask, OpenAI, Qdrant, Deep Translator
-- **APIs**: OpenAI API, Qdrant API, Google Translator API
+- **APIs**: OpenAI API, Qdrant API
 - **Database**: Qdrant (Vector Database)
 
 ## Installation
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
     ```env
     OPENAI_API_KEY=your_openai_api_key
-    GOOGLE_API_KEY=your_google_api_key
+  
     ```
 
 ## Usage
